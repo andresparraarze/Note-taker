@@ -19,6 +19,8 @@ just go to the link provided and press start https://secure-earth-88936.herokuap
 ## Usage
 write a title and what do you want to take a note of and press save
 
+![Screenshot 2022-06-22 235006](https://user-images.githubusercontent.com/82328303/175205211-71614b42-ca4a-4c7e-8efa-eaeb6b34f078.png)
+
 ## Contributing
 none
 
