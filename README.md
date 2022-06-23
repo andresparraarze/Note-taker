@@ -14,7 +14,7 @@
 Its a note taker designed so that you can store info that you might want to remember. 
 
 ## Installation
-just go to the link provided and press start
+just go to the link provided and press start https://secure-earth-88936.herokuapp.com/
 
 ## Usage
 write a title and what do you want to take a note of and press save
